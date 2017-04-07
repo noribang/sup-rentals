@@ -1,0 +1,13 @@
+{{#if addNewRental}}
+	<h1>New Rental</h1>
+	<div>
+		<form>
+			<div class="form-group">
+				<label for="owner">Owner</label>
+				{{input value=owner id="owner"}}
+			</div>
+		</form>
+	</div>
+{{else}}
+	<button {{action 'rentalFormShow'}}>New Rental</button>
+{{/if}}
