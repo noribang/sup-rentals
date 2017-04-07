@@ -1,0 +1,1 @@
+/Users/hoon/Documents/sup-rentals/tmp/broccoli_merge_trees-input_base_path-UP3i5hId.tmp/2/sup-rentals/tests/helpers/destroy-app.jshint.lint-test.js

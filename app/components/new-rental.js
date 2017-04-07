@@ -5,6 +5,14 @@ export default Ember.Component.extend({
 	actions: {
 		rentalFormShow() {
 			this.set('addNewRental', true);
+		},
+
+		saveRental1() {
+			var params = {
+
+			};
+			this.set();
+			this.sendAction();
 		}
-	}
+	}//END ACTIONS
 });

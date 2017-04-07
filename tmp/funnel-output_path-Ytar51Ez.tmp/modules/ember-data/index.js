@@ -1,0 +1,1 @@
+/Users/hoon/Documents/sup-rentals/node_modules/ember-data/addon/index.js
